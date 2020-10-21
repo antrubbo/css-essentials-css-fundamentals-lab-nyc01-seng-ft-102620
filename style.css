@@ -33,6 +33,7 @@ figcaption {
 #details {
   display: block;
   float: left;
+  width: max;
 }
 
 #details > div {
