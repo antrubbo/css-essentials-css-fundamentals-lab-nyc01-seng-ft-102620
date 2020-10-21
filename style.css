@@ -30,6 +30,7 @@ figcaption {
   margin: auto;
 }
 
-#details {
+#details > div {
   display: block;
+  float: left;
 }
