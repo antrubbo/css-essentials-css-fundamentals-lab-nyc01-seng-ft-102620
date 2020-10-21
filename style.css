@@ -32,17 +32,13 @@ figcaption {
 
 #details {
   display: block;
-  width: 100%;
-  
-  background-color: red;
-  /*text-align: center;*/
-  /*width: 100%;*/
+  float: left;
 }
 
-#details > div {
-  float: left;
-  background-color: red;
-  text-align: center;
-}
+/*#details > div {*/
+/*  float: left;*/
+/*  background-color: red;*/
+/*  text-align: center;*/
+/*}*/
 
 
