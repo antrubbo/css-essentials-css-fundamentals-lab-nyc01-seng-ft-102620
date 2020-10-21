@@ -30,7 +30,7 @@ figcaption {
   margin: auto;
 }
 
-#details > div {
+#details {
   display: block;
   /*float: left;*/
   /*background-color: red;*/
