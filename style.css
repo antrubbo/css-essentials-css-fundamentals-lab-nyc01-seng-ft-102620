@@ -8,5 +8,7 @@ header {
   text-align: center;
 }
 
-
+#featured-property.img {
+  margin: 0 auto;
+}
 
